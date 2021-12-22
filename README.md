@@ -13,7 +13,8 @@ Sample website with plenty of files for demos
 deploy
 
 ## How to Contribute
-contribute
+
+Please fork this repository and issue pull request for review.
 
 ### Copyright 
 
