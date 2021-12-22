@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Vinayak Bali	vinayakbali@gmail.com		@Vinayak
 # THANKS
 
     <name>
