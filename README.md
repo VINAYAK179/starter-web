@@ -14,3 +14,7 @@ deploy
 
 ## How to Contribute
 contribute
+
+### Copyright 
+
+2020 Git.Training.Course
